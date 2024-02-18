@@ -1,7 +1,7 @@
 ## CheckOut App Project
 
 # Description
-Project aims to create Checkout App Program.
+Project aims to create a real checkout page of e-commerce website.
 
 ## Objective
 At the end of the project, following topics are to be covered;
@@ -18,7 +18,12 @@ At the end of the project, following topics are to be covered;
     Ceckout_App (folder)
     |
     |---- css
-            |---- style.css
+           |---- style.css
+    |---- img
+           |---- keyboard.jpeg
+           |---- loading.jpeg
+           |---- mac.jpeg
+           |---- mouse.jpeg
     |---- app.js
     |---- index.html
     |---- Readme.md
