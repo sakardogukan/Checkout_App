@@ -26,11 +26,12 @@ At the end of the project, following topics are to be covered;
            |---- mouse.jpeg
     |---- app.js
     |---- index.html
+    |---- project_views.png
     |---- Readme.md
 ```
 
 ### Project View Images:
 
-![images]()
+![images](./project_vies.png)
 
 > Designed By DOGUKAN © Feb 2024
